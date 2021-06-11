@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-event_emitter-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eduardIliasenco-ui/nodejs-event_emitter-stream.git",
+  "author": "eduard <eduard.iliasenco@endava.com>",
+  "license": "MIT"
+}
